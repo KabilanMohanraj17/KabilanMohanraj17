@@ -2,13 +2,13 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF6F00,50:FB8C00,100:FFA726&text=Hi%20There,%20I%27m%20Kabilan%20Mohanraj&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20%7C%20Cyber%20Security%20%7C%20Full%20Stack%20Developer&descAlignY=62&descSize=18"/>
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF6F00,50:FB8C00,100:FFA726&text=Hi%20There,%20I%27m%20Kabilan%20Mohanraj&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20%7C%20Cyber%20Security&descAlignY=62&descSize=18"/>
 
   <source media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FFE0B2,50:FFA726,100:FB8C00&text=Hi%20There,%20I%27m%20Kabilan%20Mohanraj&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20%7C%20Cyber%20Security%20%7C%20Full%20Stack%20Developer&descAlignY=62&descSize=18"/>
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FFE0B2,50:FFA726,100:FB8C00&text=Hi%20There,%20I%27m%20Kabilan%20Mohanraj&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20%7C%20Cyber%20Security&descAlignY=62&descSize=18"/>
 
   <img width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF6F00,50:FB8C00,100:FFA726&text=Hi%20There,%20I%27m%20Kabilan%20Mohanraj&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20%7C%20Cyber%20Security%20%7C%20Full%20Stack%20Developer&descAlignY=62&descSize=18"/>
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF6F00,50:FB8C00,100:FFA726&text=Hi%20There,%20I%27m%20Kabilan%20Mohanraj&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20%7C%20Cyber%20Security&descAlignY=62&descSize=18"/>
 </picture>
 
 </div>
