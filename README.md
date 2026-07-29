@@ -1,5 +1,5 @@
 <!-- ========================================================= -->
-<!--        🧡 Premium GitHub Profile README by ChatGPT         -->
+<!--                 🧡 Premium GitHub Profile                 -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -14,11 +14,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=FB8C00&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Cyber+Security+Enthusiast;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies;Building+Cool+Projects" alt="Typing SVG"/>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/github/followers/KabilanMohanraj17?style=for-the-badge&logo=github&color=FB8C00&labelColor=FFB74D&label=Followers"/>
+
 <img src="https://komarev.com/ghpvc/?username=KabilanMohanraj17&style=for-the-badge&color=FB8C00&label=Profile+Views"/>
-<img src="https://img.shields.io/github/last-commit/KabilanMohanraj17/KabilanMohanraj17?style=for-the-badge&color=FB8C00&labelColor=FFB74D&label=Last+Updated"/>
+
+<img src="https://img.shields.io/badge/Cyber%20Security-Enthusiast-FB8C00?style=for-the-badge"/>
 
 </div>
 
@@ -31,55 +33,43 @@
 
 <td width="65%" valign="top">
 
-### Hi there! 👋
+### Hello! 👋
 
 I'm **Kabilan Mohanraj**, a passionate **Computer Science & Engineering (Cyber Security)** student at **Amrita Vishwa Vidyapeetham, Coimbatore**.
 
-I enjoy creating modern web applications, learning new technologies, solving challenging problems, and exploring the world of Cyber Security.
+I enjoy building secure applications, creating modern web experiences, solving challenging problems, and continuously learning new technologies.
 
-### 🌟 Quick Info
+### 🌟 Quick Overview
 
 - 🎓 Student at **Amrita Vishwa Vidyapeetham**
 - 💻 Major: **Computer Science & Engineering (Cyber Security)**
-- 📍 Coimbatore, India
+- 📍 Coimbatore, Tamil Nadu, India
 - 🌱 Currently learning **Cyber Security & Full Stack Development**
-- 🚀 Interested in **Open Source**
-- 🤝 Looking to collaborate on exciting projects
-- 📧 **kabilanmercury@gmail.com**
+- 🔐 Passionate about **Cyber Security**
+- 🌍 Open Source Enthusiast
+- 🤝 Open to collaborations and exciting projects
+- 📫 Reach me at **kabilanmercury@gmail.com**
 
-> *"Learning never exhausts the mind."*
+> **"Code. Secure. Innovate."**
 
 </td>
 
 <td width="35%" align="center">
 
-<img width="320" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="Spider-Man"><div align="center">
+<img src="./assets/img.png" width="330" alt="Developer Illustration"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
 
 # 🚀 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,mysql,firebase,docker,github,vscode&perline=6"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=KabilanMohanraj17&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KabilanMohanraj17&show_icons=true&theme=transparent&icon_color=FB8C00&title_color=FB8C00&text_color=F57C00&border_color=FB8C00"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KabilanMohanraj17&layout=compact&theme=transparent&title_color=FB8C00&text_color=F57C00&border_color=FB8C00"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,mysql,firebase,docker,git,github,vscode&perline=7"/>
 
 </div>
 
@@ -109,11 +99,11 @@ I enjoy creating modern web applications, learning new technologies, solving cha
 
 # 🐍 Contribution Snake
 
-> **Enable GitHub Actions and create `.github/workflows/snake.yml` to make this animation work.**
-
-<img src="https://raw.githubusercontent.com/KabilanMohanraj17/KabilanMohanraj17/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/KabilanMohanraj17/KabilanMohanraj17/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 
 </div>
+
+> **Create the workflow below in `.github/workflows/snake.yml` to enable the snake animation.**
 
 ```yaml
 name: Generate Snake
@@ -122,6 +112,9 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -149,15 +142,15 @@ jobs:
 # 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/kabilan-mohanraj-357a58320/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-FB8C00?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-FB8C00?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:kabilanmercury@gmail.com">
-<img src="https://img.shields.io/badge/Email-FB8C00?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-FB8C00?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/KabilanMohanraj17">
-<img src="https://img.shields.io/badge/GitHub-FB8C00?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-FB8C00?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -166,11 +159,15 @@ jobs:
 
 <div align="center">
 
-## 💡 Developer Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
+# 💻 Currently Focusing On
 
 </div>
+
+- 🛡️ Cyber Security
+- 🌐 Full Stack Development
+- ☁️ Cloud Technologies
+- 📚 Data Structures & Algorithms
+- 🚀 Open Source Contributions
 
 ---
 
@@ -180,8 +177,8 @@ jobs:
 
 If you like my work, consider giving a ⭐ to my repositories.
 
-<br><br>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:FF6F00,50:FB8C00,100:FFA726"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:FF6F00,50:FB8C00,100:FFA726"/>
 
 </div>
