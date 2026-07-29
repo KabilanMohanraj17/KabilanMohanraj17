@@ -99,41 +99,16 @@ I enjoy building secure applications, creating modern web experiences, solving c
 
 # 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/KabilanMohanraj17/KabilanMohanraj17/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/KabilanMohanraj17/KabilanMohanraj17/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/KabilanMohanraj17/KabilanMohanraj17/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake"
+       src="https://raw.githubusercontent.com/KabilanMohanraj17/KabilanMohanraj17/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
-
-> **Create the workflow below in `.github/workflows/snake.yml` to enable the snake animation.**
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: KabilanMohanraj17
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 ---
 
