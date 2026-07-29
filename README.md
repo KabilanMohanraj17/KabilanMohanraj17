@@ -1,30 +1,17 @@
-<!-- ========================================================= -->
-<!--                 🧡 Premium GitHub Profile                 -->
-<!-- ========================================================= -->
-
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF6F00,50:FB8C00,100:FFA726&text=Welcome%20to%20My%20GitHub&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Building%20Secure%20Solutions%20Through%20Code&descAlignY=60&descSize=20"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FFE0B2,50:FFA726,100:FB8C00&text=Welcome%20to%20My%20GitHub&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Building%20Secure%20Solutions%20Through%20Code&descAlignY=60&descSize=20"/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF6F00,50:FB8C00,100:FFA726&text=Welcome%20to%20My%20GitHub&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Building%20Secure%20Solutions%20Through%20Code&descAlignY=60&descSize=20"/>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF6F00,50:FB8C00,100:FFA726&text=Hi%20There,%20I%27m%20Kabilan%20Mohanraj&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20%7C%20Cyber%20Security%20%7C%20Full%20Stack%20Developer&descAlignY=62&descSize=18"/>
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FFE0B2,50:FFA726,100:FB8C00&text=Hi%20There,%20I%27m%20Kabilan%20Mohanraj&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20%7C%20Cyber%20Security%20%7C%20Full%20Stack%20Developer&descAlignY=62&descSize=18"/>
+
+  <img width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF6F00,50:FB8C00,100:FFA726&text=Hi%20There,%20I%27m%20Kabilan%20Mohanraj&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20%7C%20Cyber%20Security%20%7C%20Full%20Stack%20Developer&descAlignY=62&descSize=18"/>
 </picture>
 
-# Hey there, I'm Kabilan Mohanraj 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=FB8C00&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Cyber+Security+Enthusiast;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies;Building+Cool+Projects" alt="Typing SVG"/>
-
-<br><br>
-
-<img src="https://img.shields.io/github/followers/KabilanMohanraj17?style=for-the-badge&logo=github&color=FB8C00&labelColor=FFB74D&label=Followers"/>
-
-<img src="https://komarev.com/ghpvc/?username=KabilanMohanraj17&style=for-the-badge&color=FB8C00&label=Profile+Views"/>
-
-<img src="https://img.shields.io/badge/Cyber%20Security-Enthusiast-FB8C00?style=for-the-badge"/>
-
 </div>
-
----
 
 # 👨‍💻 About Me
 
