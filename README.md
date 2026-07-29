@@ -69,7 +69,7 @@ I enjoy building secure applications, creating modern web experiences, solving c
 
 # 🚀 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,mysql,firebase,docker,git,github,vscode&perline=7"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,mysql,firebase,docker,github,vscode&perline=7"/>
 
 </div>
 
